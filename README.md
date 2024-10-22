@@ -26,6 +26,7 @@ To run this notebook, you'll need:
 You can install the required packages using pip:
 ```bash
 pip install pandas numpy seaborn matplotlib scikit-learn
+```
 
 ## Usage
 Run the Jupyter notebook notebook.ipynb to explore data visualization and clustering of student performance.
